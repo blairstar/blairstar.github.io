@@ -1,11 +1,11 @@
 ---
- permalink: /
- title: "About me"
- author_profile: true
- redirect_from: 
-   - /about/
-   - /about.html
- ---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
  
 I am a senior computer vision algorithm engineer with experience at Tencent and JD. I have worked on multiple large-scale computer vision projects, including industrial vision inspection, OCR, video understanding and retrieval, and digital humans. Currently, my focus is on image and video generation.
 
