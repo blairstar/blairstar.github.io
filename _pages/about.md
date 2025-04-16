@@ -15,6 +15,9 @@ In the past, my focus was on developing practical algorithms to meet project req
 
 - [Understanding Diffusion Probability Model Interactively](https://huggingface.co/spaces/blairzheng/DPMInteractive)
 
+- [Visualize the Coefficient Matrix of Various Samplers on Natural Inference Framework](/CoeffMatrix/)
+
+
 
 
 
